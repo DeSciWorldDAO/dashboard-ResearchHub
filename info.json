@@ -1,1 +1,22 @@
+{"name":"ResearchHub",
+"tokenSymbol":"RSC ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"ResearchHub' s mission is to accelerate the pace of science by rewarding the open sharing and discussion of academic research.",
+"whitePaperLink":"https://docs.researchhub.com/",
+"gallery":[],
+"deleted":false,
+"primaryColor":"#3971ff",
+"twitterHandle":"ResearchHub",
+"coingeckoId":"researchcoin",
+"snapshotId":"https://snapshot.org/#/researchhub.eth",
+"logo":"https://pbs.twimg.com/profile_images/1235282243083309056/3FotQ3eu_400x400.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://www.researchhub.com/",
+"tokenDescription":"ResearchCoin (RSC) is a utility token you can earn by contributing content to ResearchHub. Within ResearchHub, RSC is used to properly recognize and reward users who help create value within our community.",
+"tokenTradeLink":"https://app.uniswap.org/#/swap?inputCurrency=0xd101dcc414f310268c37eeb4cd376ccfa507f571&outputCurrency=ETH",
 
+"tags":["Publishing", "Ecosystems"]
+  
+}
